@@ -40,7 +40,7 @@ Design details:
  
 	Sends pictures to an api on Azure.
 
-		* This cloud api processes the images to interpret the labels, resulting in what product type (SKU) was located in which position.
+	* This cloud api processes the images to interpret the labels, resulting in what product type (SKU) was located in which position.
 
 
 # USAGE
