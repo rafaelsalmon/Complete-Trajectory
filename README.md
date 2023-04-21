@@ -1,7 +1,10 @@
 
 Complete Trajectory is a .Net Core Solution that moves a camera and takes pictures in specific positions. Goal: photograph and interpret product labels in a store gondola.
 
-Start by watching this video to visualize the behavior of the camera: `[Link to video of the movement.]`
+Start by watching this video to visualize the behavior of the camera: 
+
+![Percurso-1](https://user-images.githubusercontent.com/20028672/233565099-37b4f9c3-ba40-4f13-ac91-b0a71f4960de.gif)
+
 
 # HARDWARE AND SOFTWARE STACK / DESIGN DECISIONS
 
